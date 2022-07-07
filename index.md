@@ -2,7 +2,7 @@
 ### [F# for you](https://github.com/fsharpforyou/fsharpforyou.github.io)
 <sub>An F# learning resource.</sub>
 
-### [ProjectManagementSolution](https://github.com/sheridanchris/ProjectManagement)
+### [ProjectManagement](https://github.com/sheridanchris/ProjectManagement)
 <sub>A project management solution for developers.</sub>
 
 ### [Exodus](https://github.com/sheridanchris/Exodus)
