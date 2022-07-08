@@ -10,4 +10,4 @@
 <sub>A project management solution for individual developers and teams.</sub>  
 
 [Exodus](https://github.com/sheridanchris/Exodus)  
-<sub>A migration dontet tool for PostgreSQL</sub>
+<sub>A dotnet tool for migrating PostgreSQL databases.</sub>
