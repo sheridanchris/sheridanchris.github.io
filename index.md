@@ -19,3 +19,6 @@ Junior Backend Developer
 
 [Exodus](https://github.com/sheridanchris/Exodus)  
 <sub>A dotnet tool for migrating PostgreSQL databases.</sub>
+
+[BudgeIt](https://github.com/freedombits/budgeit)
+<sub>A simple way to track monthly expenses</sub>
