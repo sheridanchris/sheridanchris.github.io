@@ -14,8 +14,8 @@ Junior Backend Developer
 [F# for you](https://github.com/fsharpforyou/fsharpforyou.github.io)  
 <sub>A learning resource for developers interested in F#.</sub>  
 
-[ProjectManagement](https://github.com/sheridanchris/ProjectManagement)  
-<sub>A project management solution for individual developers and teams.</sub>  
+[ProjectManagement](https://github.com/freedombits/ProjectManagementSolution)  
+<sub>A real-time project management solution for individuals and teams.</sub>  
 
 [Exodus](https://github.com/sheridanchris/Exodus)  
 <sub>A dotnet tool for migrating PostgreSQL databases.</sub>
