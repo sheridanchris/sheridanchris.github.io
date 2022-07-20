@@ -13,10 +13,10 @@ let projects =
         Technologies = ["F#"; "fsdocs"]
         Href = "https://fsharpforyou.github.io" }
 
-      { Name = "ProjectManagement"
+      { Name = "ProjectManagementSolution"
         Description = "A real-time project management solution for individuals and teams."
         Technologies = ["C#"; "TypeScript"; "ASP.NET Core"; "React"; "Postgresql"; "Redis"]
-        Href = "https://github.com/freedombits/ProjectManagementSolution" }
+        Href = "https://github.com/sheridanchris/ProjectManagementSolution" }
 
       { Name = "Exodus"
         Description = "A dotnet tool for migrating PostgreSQL databases."
