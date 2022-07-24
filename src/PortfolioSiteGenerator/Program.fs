@@ -21,12 +21,7 @@ let projects =
       { Name = "Exodus"
         Description = "A dotnet tool for migrating PostgreSQL databases."
         Technologies = ["F#"]
-        Href = "https://github.com/sheridanchris/Exodus" }
-
-      { Name = "Budgeit"
-        Description = "A simple way to track monthly expenses"
-        Technologies = ["C#"]
-        Href = "https://github.com/freedombits/budgeit" } ]
+        Href = "https://github.com/sheridanchris/Exodus" } ]
 
 let projectCard (project: Project) =
     Html.div [
