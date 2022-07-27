@@ -16,12 +16,7 @@ let projects =
       { Name = "ProjectManagementSolution"
         Description = "A real-time project management solution for individuals and teams."
         Technologies = ["C#"; "TypeScript"; "ASP.NET Core"; "React"; "Postgresql"; "Redis"]
-        Href = "https://github.com/sheridanchris/ProjectManagementSolution" }
-
-      { Name = "Exodus"
-        Description = "A dotnet tool for migrating PostgreSQL databases."
-        Technologies = ["F#"]
-        Href = "https://github.com/sheridanchris/Exodus" } ]
+        Href = "https://github.com/sheridanchris/ProjectManagementSolution" } ]
 
 let projectCard (project: Project) =
     Html.div [
